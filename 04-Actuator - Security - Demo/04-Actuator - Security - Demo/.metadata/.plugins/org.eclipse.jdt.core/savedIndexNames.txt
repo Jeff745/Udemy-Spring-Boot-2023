@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Jeffrey\DevSpringBoot\03-Actuator - Demo\03-Actuator - Demo\.metadata\.plugins\org.eclipse.jdt.core
+1752053828.index
+1865797976.index
+3343307460.index

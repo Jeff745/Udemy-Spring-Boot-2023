@@ -1,0 +1,11 @@
+Navigate to root folder of spring boot in cmd line
+Create maven jar package using "mvnw package' command
+Jar files created in "Target subdirectory"
+ Navigate to target directory - dir .*jar
+ java -jar mycoolapp-0.0.1-SNAPSHOT
+ Run app using java-jar command
+ CTRL+C to stop app
+ Go back to project main directory, Run app using spring boot maven plugin
+ mvnw spring-boot:run
+ 
+ Eg: C:\Users\Jeffrey\DevSpringBoot\05-Command-Line-Demo\05-Command-Line-Demo\05-Command-Line-Demo>mvnw spring-boot:run
